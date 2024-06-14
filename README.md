@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello 👋
+<body> I am a high school student from Turkey. <br>
+  I like learning and I've taken part in multiple STEM related projects. <br>
+
+  
+</body>
 
 <!--
 **whooryn/whooryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
